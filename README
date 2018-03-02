@@ -1,5 +1,5 @@
-在[DataQuest](www.dataquest.io)上完成了Data Scientist Path的课程, 并取得了证书.
+DataQuest是付费学习数据科学的网站, 网址为: www.dataquest.io. 在完成了Data Scientist Path的课程, 并取得了证书.
 
 这里包括两个文件夹:
-1. Code: 包含上课时写的代码, 内容设计数据科学家需要的Python, 可视化, 数据库, 机器学习, 大数据等知识
-2. Guided project: 包含每个话题后的Project 作业, 运用网络开源数据或kaggle数据来实践学习的知识.
+1. Code: 包含上课时写的代码, 内容涉及数据科学家需要的Python知识, 可视化, 数据库, 机器学习, 大数据等知识
+2. Guided project: 包含每个话题后的Project 作业, 运用网络开源数据或kaggle数据来实践学习到的知识.
